@@ -1,0 +1,28 @@
+{
+  "name": "appliction_one",
+  "version": "1.0.0",
+  "description": "curd app",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafaahmed20/curd-application-.git"
+  },
+  "author": "mostafa ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mostafaahmed20/curd-application-/issues"
+  },
+  "homepage": "https://github.com/Mostafaahmed20/curd-application-#readme"
+}

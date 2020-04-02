@@ -1,0 +1,9 @@
+{
+    "name":"proudction machine",
+    "mail":{
+        "host":"devlopment_machine.com",
+        "port":4000
+    }
+    
+
+}
